@@ -22,6 +22,10 @@ wp-config.php
 
 node_modules
 /node_modules
+
+dev
+/dev
+
 #bower_components
 .sass-cache
 #Gemfile*
